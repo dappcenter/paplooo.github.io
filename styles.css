@@ -52,8 +52,16 @@ a {
 
 h1 {
   font-family: "Roboto";
+  color: #DDD
 }
 
 p {
   font-family: "Roboto";
 }
+
+body 
+	{
+		background-image : url("https://i.imgur.com/zG7cKqR.png");
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
