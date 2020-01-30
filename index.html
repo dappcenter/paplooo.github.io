@@ -1,16 +1,78 @@
----
-title: Home
----
-
 <!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{page.title}}</title>
-  </head>
----
-layout: default
-title: Home
----
-<h1>{{ "Hello World!" | downcase }}</h1>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>DAC Factory FAQs</title>
+  <meta name="description" content="Basic dependency-free accordion menu">
+  <meta name="author" content="DevMarketer">
+ <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <!-- content starts here -->
+  <div class="container">
+    <h1>DAC Factory FAQs</h1>
+	<button class ="accordion">How easy is it to create a DAC?</button>
+	<div class ="accordion-content">
+		<p>
+			Creating a DAC used to be only for the most technically literate. With DAC Factory from eosDAC it is now as easy as completing a few details and we will create and maintain it for you.
+		</p>
+	</div>
+	
+	<button class ="accordion">How to start?</button>
+	<div class ="accordion-content">
+		<p>
+			Once you complete the form, our systems will prepare and build the DAC for you. Just enter the name of your DAC and the name and amount of tokens you want to issue and then choose a color scheme.
+		</p>
+		
+		<p>	
+			Please be careful choosing the token symbol as this cannot be changed later (anything else can be)
+		</p>
+	</div>
+	
+	<button class ="accordion">I already have an existing EOS token</button>
+	<div class ="accordion-content">
+		<p>
+			Once your DAC has been created, the account used originally will be elected as the 'Genesis Custodian'. This account will be the single elected custodian and will be sent all of the issued tokens and therefore has full control of the DAC.
+		
+		</p>
+		
+		<p> 
+		You should now take some time to familiarize yourself with the DAC interface. At this point, you can change any settings by proposing them and then approving them.
+		</p>
+		
+		<p> Once you are ready, you can then start to distribute your DAC tokens (you may want to transfer them to the DAC treasury account first) and then start asking people to register as candidates and start voting!
+		</p>
+		
+		<p>After voting reaches the required threshold (expressed as a percentage of voting tokens), and the required number of candidates are available the DAC will be ready to be unlocked. Once it is unlocked, all permissions will be resigned to the elected
+		</p>
+		
+	</div>
+	
+	<button class ="accordion">Modifications</button>
+	<div class ="accordion-content">
+		<p>
+			We understand that the needs of each DAC is different (token economics, voting schemes etc), so have designed our DACs to be customizable. This will require installing extra contracts if the functionality you require is not available. Please contact us for more information.
+		</p>
+		
+		<p>
+		The default system already includes the ability to choose different voting schemes and the ability to customize the look-and-feel of your DAC.
+		</p>
+	</div>
+	
+	<button class ="accordion">Where can I learn more about eosDAC?</button>
+	<div class ="accordion-content">
+		<p>
+			You can learn more about eosDAC on our  <a href = "https://eosdac.io"> website </a>
+		</p>
+	</div>
+	
+	
+   </div>
+  <!-- contend ends here -->
+  <script src="scripts.js"></script>
+</body>
 </html>
