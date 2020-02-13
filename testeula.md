@@ -1,6 +1,6 @@
 
 
-<div align="center"
+<div align="center",strong>
   <b>TERMS OF USE</b>
 </div>
 
