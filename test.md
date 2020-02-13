@@ -58,10 +58,12 @@ Custodian vote found at [link to TX]
 
 _________________ , __________________  
 Place, Date
+<br>
 
 _____________________________
 
 [Sarojini McKenna]
+<br>
 
 ## Annexes:
 
