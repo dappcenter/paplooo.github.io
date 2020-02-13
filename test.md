@@ -1,2 +1,4 @@
-|Left-aligned:--- # Purchase Order<br><br>For DAC Factory services  |
-| ------------- |
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
