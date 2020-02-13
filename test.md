@@ -4,7 +4,8 @@
 
 ### Purchaser: 
 **eosDAC**,  a decentralized autonomous community organized under the laws of Anguilla, acting through its Custodian board
-<br>
+&nbsp;
+
 
 
 ### Service Provider:
@@ -13,7 +14,8 @@ Dacoco GmbH
 c/o AbaFin Treuhand AG  
 Baarerstrasse 82  
 6302 Zug, Switzerland
-<br>
+&nbsp;
+
 
 _**Subject to the terms & conditions of the Service Provider enclosed in annex I (the "**T&C**"), the Purchaser agrees to purchase and the Service Provider agrees to provide the services as described here under (the "**Services**"):**_
 
@@ -58,12 +60,13 @@ Custodian vote found at [link to TX]
 
 _________________ , __________________  
 Place, Date
-<br>
 
-_____________________________
 
+&nbsp;
+
+____
 [Sarojini McKenna]
-<br>
+&nbsp;
 
 ## Annexes:
 
