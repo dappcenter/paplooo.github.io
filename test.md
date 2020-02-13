@@ -65,7 +65,7 @@ Place, Date
 &nbsp;
 
 ____
-[Sarojini McKenna]
+**[Sarojini McKenna]**
 &nbsp;
 
 ## Annexes:
