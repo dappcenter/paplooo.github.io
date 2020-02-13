@@ -1,9 +1,8 @@
-Purchase Order
-For DAC Factory services
-Purchaser:	eosDAC, a decentralized autonomous community organized under the laws of Anguilla, acting through its Custodian board	Service Provider:	Dacoco GmbH
-c/o AbaFin Treuhand AG
-Baarerstrasse 82
-6302 Zug, Switzerland
+#Purchase Order
+##For DAC Factory services
+
+| Purchaser: | eosDAC,eosDAC<br>, a decentralized autonomous community organized under the laws of Anguilla, acting through its Custodian board  | Service<br>Provider: | Dacoco GmbH<br>c/o AbaFin Treuhand AG<br>Baarerstrasse 82<br>6302 Zug, Switzerland |
+|------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------------|------------------------------------------------------------------------------------|
 Subject to the terms & conditions of the Service Provider enclosed in annex I (the "T&C"), the Purchaser agrees to purchase and the Service Provider agrees to provide the services as described hereunder (the "Services"):
 Ref.	Service:	Due date	Mode of payment:	Service Fee:
 1.		Preparation of end user agreements	15.02.2020			Included within onboarding fee
