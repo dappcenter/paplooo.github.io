@@ -1,5 +1,3 @@
-
-
 # Purchase Order for DAC Factory Services
 
 ### Purchaser: 
@@ -42,7 +40,11 @@ The Service Provider shall have no obligation to carry out or provide any Servic
 
 - **MultiSig Wallet**: The Service Fee is paid into the Service Provider's wallet: ```dacocoiofund```
 
-- **Bank account**: The Onboarding Fee is paid into the Service Provider’s bank account: Dacoco Gmbh, Account number 38492804, UK Sort Code 23-14-70; IBAN GB11 TRWI 2314 7038 4928 04
+- **Bank account**: The Onboarding Fee is paid into the Service Provider’s bank account: 
+	- **Account name** - ```Dacoco Gmbh```
+	-  **Account number** -  ```38492804```
+	-  **UK Sort Code** -  ```23-14-70```
+	-  **IBAN** -  ``GB11 TRWI 2314 7038 4928 04``
 
 ## Signatures:
 
