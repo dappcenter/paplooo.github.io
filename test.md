@@ -1,7 +1,7 @@
 # Purchase Order
 ## For DAC Factory services
 
-| | | | |
+
 | :---         |:---    | :---    | :---    |
 |**Purchaser**:   | **eosDAC**,  a decentralized autonomous community organized under the laws of Anguilla, acting through its Custodian board  | **Service Provider**:    |Dacoco GmbH  c/o AbaFin Treuhand AG  Baarerstrasse 82  6302 Zug, Switzerland|
 
