@@ -1,10 +1,10 @@
 
 
-<div align="center",strong>
+<div align="center">
   <b>TERMS OF USE</b>
 </div>
 
-<div align="center", strong>
+<div align="center">
   <b>Version 1.0 – October 2019</b>
 </div>
 
