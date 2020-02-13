@@ -1,2 +1,2 @@
-| # Purchase Order<br><br>For DAC Factory services  |
+|Left-aligned:--- # Purchase Order<br><br>For DAC Factory services  |
 | ------------- |
