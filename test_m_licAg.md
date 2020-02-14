@@ -191,7 +191,7 @@
     <li>&ensp;  &ensp;Licensee ceases to conduct the Activity;</li><br></br>
     <li>&ensp;  &ensp;Licensee or any of its sub-licensees fails to perform or observe any of the obligations on its part to be performed  or observed under this Agreement, provided, however, Licensor has required Licensee by Written Notice to&ensp; &ensp; &ensp; &ensp;&ensp;&nbsp; remedy such breach of this Agreement, or to procure that such breach is remedied, within 30 days and Licensee or the related sub-licensee has not cured such breach or done all acts one can reasonably require to deem such breach cured within such 30 days period; or</li><br></br>
     <li>&ensp;  &ensp;Licensor ceases to be a member of the board of custodians of Licensee and is not re-elected in such capacity within a period of 30 days.</li>
-</ol>
+</ol><br></br>
 
 &nbsp; <b>12&ensp;&nbsp;Effects of Termination</b><br></br>
 &ensp;&ensp;&ensp;&ensp;&nbsp; Upon termination for any reason all rights granted to the Licensee under this Agreement shall cease, the Licensee shall cease, and procure that its sub-licensees cease, to use and, as the case may be, to commercially distribute, the Licensed Product. For the avoidance of doubt, any and all DAC(s) generated or otherwise created by Licensee or any sub-licensee through the use of DAC Factory shall remain unaffected by a termination of this Agreement and neither Licensee, nor any sub-licensee, nor any officer or member of the relevant DAC(s) shall be restricted in the use of the relevant smart contract and/or any other underlying code of the DAC(s) they have generated using DAC Factory in the event of a termination of this Agreement. <br></br>
