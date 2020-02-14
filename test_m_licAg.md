@@ -131,13 +131,13 @@
 "Use" in this Agreement shall have the meaning, subject to the limitations and restrictions in Section 2.2 below:
 
 <ol type="a">
-    <li> &ensp;  &ensp;of using the program code of the Software in a machine-readable form on a computer installation, i.e. inputting the &ensp;  &ensp;&nbsp;&nbsp;&nbsp; program either totally or partially into a computer system in order to carry out the instructions contained within the &ensp;  &ensp;&nbsp;program; </li>
+    <li> &ensp;  &ensp;of using the program code of the Software in a machine-readable form on a computer installation, i.e. inputting the &ensp;  &ensp;&nbsp;&nbsp;&nbsp; program either totally or partially into a computer system in order to carry out the instructions contained within the program; </li>
     <li>&ensp;  &ensp; storing the program and using its Documentation with any part of the program in connection with the practical &ensp;  &ensp;&nbsp;&nbsp;&nbsp; &ensp;  &ensp;&nbspexploitation of DAC Factory</li>
 </ol>
 
  &ensp;  &ensp;"Commercially distribute" in this Agreement shall have the meaning of commercializing DAC Factory towards third parties by granting, against consideration, a sub-license to up to one third party (the "Distributor"). Such sub-license shall allow the Distributor to grant an unlimited number of limited sub-licenses to end users, to allow such end users to use, always subject to the limitations and restrictions in Section 2.2 below, DAC Factory or certain functions thereof against consideration. The Distributor shall not have the right to grant sub-licenses for any further commercial distribution of the Licensed Product. For the avoidance of doubt, Licensee shall have no obligation to grant a sub-license to a Distributor and shall be free in electing, revoking and/or replacing any Distributor from time to time, in observance of the relevant terms of any applicable sub-license agreement. 
  
-<b>2.2 &ensp; Restrictions </b>
+<b>2.2 &ensp; Restrictions </b> <br></br>
  &ensp; &ensp; &ensp; &nbsp;The right to use the Licensed Product is subject to the following restrictions:
  
   &ensp; &ensp; &ensp; &nbsp;Subject to the Licensee's right to commercially distribute DAC Factory and Section 2.3, Licensee shall not, and shall not permit any third party, to copy, modify or Software License Agreement dated [●] 2020 6/12 adapt the Licensed Product nor create derivative works based upon the Licensed Product.
