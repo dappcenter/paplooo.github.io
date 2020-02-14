@@ -131,7 +131,7 @@
 "Use" in this Agreement shall have the meaning, subject to the limitations and restrictions in Section 2.2 below:
 
 <ol type="a">
-    <li> &ensp;  &ensp;of using the program code of the Software in a machine-readable form on a computer installation, i.e. inputting the &ensp;  &ensp;&nbsp;&nbsp;&nbsp; program either totally or partially into a computer system in order to carry out the instructions contained within the &ensp;  &ensp;&nbsp;program; </li>
+    <li> &ensp;  &ensp;of using the program code of the Software in a machine-readable form on a computer installation, i.e. inputting the &ensp;  &ensp;&nbsp;&nbsp;&nbsp; program either totally or partially into a computer system in order to carry out the instructions contained within the program; </li>
     <li>&ensp;  &ensp; storing the program and using its Documentation with any part of the program in connection with the practical &ensp;  &ensp;&nbsp;&nbsp;&nbsp; &ensp;  &ensp;&nbspexploitation of DAC Factory</li>
 </ol>
 
@@ -140,7 +140,7 @@
 <b>2.2 &ensp; Restrictions </b><br></br>
  &ensp; &ensp; &ensp; &nbsp;The right to use the Licensed Product is subject to the following restrictions:
  
-  &ensp; &ensp; &ensp; &nbsp;Subject to the Licensee's right to commercially distribute DAC Factory and Section 2.3, Licensee shall not, and shall not permit any third party, to copy, modify or Software License Agreement dated [●] 2020 6/12 adapt the Licensed Product nor create derivative works based upon the Licensed Product.<br></br>
+  &ensp; &ensp; &ensp; &nbsp;Subject to the Licensee's right to commercially distribute DAC Factory and Section 2.3, Licensee shall not, and shall not permit any third party, to copy, modify or adapt the Licensed Product nor create derivative works based upon the Licensed Product.<br></br>
 
 <b> 2.3  &ensp;New Releases / Versions  </b><br></br>
 &ensp; &ensp; &ensp; &nbsp;If Licensor develops new releases or versions of the License Product it shall make them available to the Licensee based on the terms of this Agreement. In case Licensee has any specific need for any modification, further development, extension of the Software, the Parties shall agree together on which Party shall be responsible for the implementation thereof and how the costs shall be allocated between the Parties. If the Parties Agree that Licensee shall be responsible, Licensor shall make the source code to the extent required for such purpose available to Licensee. Section 4 applies in respect to the ownership in any such modification, further development, extension etc. of the Software.<br></br>
@@ -177,7 +177,7 @@
 &nbsp; <b>10&ensp;&nbsp;Liability </b> <br></br>
 &ensp;&ensp;&ensp;&ensp;&nbsp;Subject to Section 9, either party's liability to the other (whether contractual or otherwise) with respect to this Agreement and the use and operation of DAC Factory and Licensed Product respectively shall be limited to damages resulting from willful misconduct or gross negligence or death or personal injury caused by a Party.<br></br>
 
- &nbsp; <b>11&ensp;&nbsp;  Term and Termination  </b>
+ &nbsp; <b>11&ensp;&nbsp;  Term and Termination  </b><br></br>
  
 <b>11.1&ensp;&nbsp;Term  </b> <br></br>
 &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; This Agreement shall be in effect from the Effective Date and, unless terminated in accordance with Sections 11.2 and 11.3 below, this Agreement and the licenses granted hereunder shall extend to the entire term of copyright or other intellectual property protection of the Licensed Product. <br></br>
