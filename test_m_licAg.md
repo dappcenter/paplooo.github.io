@@ -1,7 +1,10 @@
 <font size="2">Software License Agreement dated [●] 2020</font>
+
+
 <!---
 this is code for table of content
 -->
+
 - [License Agreement](#license-agreement)
   * [Recitals](#recitals)
     + [<b>1  &ensp;&nbsp;   Definitions </b>](#-b-1---ensp--nbsp----definitions---b-)
@@ -32,7 +35,6 @@ this is code for table of content
       - [<b>13.6&ensp;&nbsp;Severability</b><br></br>](#-b-136-ensp--nbsp-severability--b--br---br-)
       - [<b>13.7&ensp;&nbsp;Governing Law</b><br></br>](#-b-137-ensp--nbsp-governing-law--b--br---br-)
       - [<b>13.8&ensp;&nbsp;Jurisdiction / Arbitration</b><br></br>](#-b-138-ensp--nbsp-jurisdiction---arbitration--b--br---br-)
-
 
 
 
