@@ -23,8 +23,7 @@ hereinafter: <b>"Licensee"</b>
   </tbody>
 </table>
 
-- [License Agreement](#license-agreement)
-  * [Recitals](#recitals)
+
 
 
 ## Recitals
