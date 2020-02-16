@@ -1,6 +1,4 @@
 <font size="2">Software License Agreement dated [●] 2020</font>
-
-
 <!---
 this is code for table of content
 -->
@@ -37,11 +35,6 @@ this is code for table of content
       - [<b>13.8&ensp;&nbsp;Jurisdiction / Arbitration</b><br></br>](#-b-138-ensp--nbsp-jurisdiction---arbitration--b--br---br-)
 
 
-
-
-# License Agreement
-
-
 <table>
   <tbody>
     <tr>
@@ -71,6 +64,7 @@ this is code for table of content
              <td valign="top"> software to automate and facilitate the creation and organization of decentralized autonomous communities.</td>
   </tbody>
 </table>
+<br></br>
 
 ## Recitals
 <b> A) </b> &ensp;   Licensor is the sole legal owner of the proprietary software referred to as "DAC Factory" and intended to automate and facilitate the creation and organization of decentralized autonomous communities, as further described in Annex I to this Agreement ("DAC Factory") and has the exclusive right to license DAC Factory. 
