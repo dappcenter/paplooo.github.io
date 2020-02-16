@@ -16,7 +16,7 @@
     + [&ensp;  <b>7&ensp;&nbsp; Representations and Warranties </b><br></br>](#--7-representations-and-warranties-)
     + [&ensp;  <b>8&ensp;&nbsp; Infringement Proceedings </b><br></br>](#--8-infringement-proceedings-)
     + [&ensp;  <b>9&ensp;&nbsp; Indemnity</b><br></br>](#--9-indemnity)
-    + [&nbsp; <b>10&ensp;&nbsp;Liability </b> <br></br>](md#-10liability---)
+    + [&nbsp; <b>10&ensp;&nbsp;Liability </b> <br></br>](#-10liability--)
     + [&nbsp; <b>11&ensp;&nbsp;  Term and Termination  </b><br></br>](#-11--term-and-termination--)
       - [<b>11.1&ensp;&nbsp;Term  </b> <br></br>](#111term---)
       - [<b>11.2&ensp;&nbsp;Termination by Licensee </b><br></br>](#112termination-by-licensee-)
