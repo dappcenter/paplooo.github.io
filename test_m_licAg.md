@@ -2,10 +2,10 @@
 
 
 - [<b>Sub-License Agreement</b><br></br>](#sub-license-agreement)
-  * [Recitals](#recitals)
-    + [<b>1 Definitions </b>](#--1--definitions-)
-    + [&ensp; <b>2&ensp;&nbsp;    Grant of License</b>](#-2----grant-of-license)
-      - [<b>2.1&ensp;   Right to Use and Commercially Distribute </b>](#21---right-to-use-and-commercially-distribute-)
+  * [<b>Recitals</b><br></br>](#recitals)
+    + [&ensp;<b>1&ensp;&nbsp; Definitions </b><br></br>](#--1--definitions-)
+    + [&ensp; <b>2&ensp;&nbsp;    Grant of License</b><br></br>](#-2----grant-of-license)
+      - [<b>2.1&ensp;   Right to Use and Commercially Distribute </b><br></br>](#21---right-to-use-and-commercially-distribute-)
       - [<b>2.2 &ensp; Restrictions </b><br></br>](#22--restrictions-)
       - [<b> 2.3  &ensp;New Releases / Versions  </b><br></br>](#-23--new-releases--versions--)
       - [<b> 2.4&ensp;  Assignment and Sub-licensing </b><br></br>](#-24--assignment-and-sub-licensing-)
