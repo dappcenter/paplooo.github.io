@@ -1,7 +1,7 @@
 <font size="2">Software License Agreement dated [●] 2020</font>
 
 
-- [Sub-License Agreement](#sub-license-agreement)
+- [<b>Sub-License Agreement</b><br></br>](#sub-license-agreement)
   * [Recitals](#recitals)
     + [<b>1 Definitions </b>](#--1--definitions-)
     + [&ensp; <b>2&ensp;&nbsp;    Grant of License</b>](#-2----grant-of-license)
@@ -255,8 +255,7 @@
 </tbody>
 </table>
 <br></br>
-
-#### <b>13.2&ensp;&nbsp;Notices </b><br></br>
+#### <b>13.2&ensp;&nbsp;Notices</b><br></br>
  &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; All notices and other communications under this Agreement shall be in writing and shall be considered duly given when received, if delivered as follows: 
 <table>
   <tbody>
