@@ -255,7 +255,7 @@
 </tbody>
 </table>
 <br></br>
-#### <b>13.2&ensp;&nbsp;Notices</b><br></br>
+#### <b>13.2&ensp;&nbsp; Notices</b><br></br>
  &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; All notices and other communications under this Agreement shall be in writing and shall be considered duly given when received, if delivered as follows: 
 <table>
   <tbody>
