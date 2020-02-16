@@ -31,8 +31,8 @@
       - [<b>13.6&ensp;&nbsp;Severability</b><br></br>](#136severability)
       - [<b>13.7&ensp;&nbsp;Governing Law</b><br></br>](#137governing-law)
       - [<b>13.8&ensp;&nbsp;Jurisdiction / Arbitration</b><br></br>](#138jurisdiction--arbitration)
-    * [<b>Signatures</b><br></br>](#signatures)
-    * [<b>Annex</b><br></br>](#annex)
+    * [<b>Signatures</b><br></br>](#-signatures)
+    * [<b>Annex</b><br></br>](#-annex)
 	
 
 
