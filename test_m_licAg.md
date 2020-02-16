@@ -77,7 +77,7 @@
 <b>C)</b> &ensp;   Licensee wishes to use and distribute DAC Factory for and in connection with the Activity, and Licensor is willing to grant the Licensee a license to use and distribute DAC Factory for this purpose based on, and in accordance with, the terms set out in this Agreement. 
 <br></br>
 
- &ensp;&nbsp; ### <b>1 Definitions </b>
+### &ensp;&nbsp;  <b>1 Definitions </b>
  &ensp;    &ensp;  &nbsp;Unless defined directly in this Agreement, capitalized terms used in this Agreement shall have the meaning set forth  & hereafter:
 <table>
   <tbody>
