@@ -23,6 +23,10 @@ hereinafter: <b>"Licensee"</b>
   </tbody>
 </table>
 
+- [License Agreement](#license-agreement)
+  * [Recitals](#recitals)
+
+
 ## Recitals
 <b> A) </b> &ensp;   Licensor is the sole legal owner of the proprietary software referred to as "DAC Factory" and intended to automate and facilitate the creation and organization of decentralized autonomous communities, as further described in Annex I to this Agreement ("DAC Factory") and has the exclusive right to license DAC Factory. 
 
