@@ -5,32 +5,35 @@
   * [Recitals](#recitals)
     + [<b>1 Definitions </b>](#--1-definitions-)
     + [&ensp; <b>2&ensp;&nbsp;    Grant of License</b>](#-2----grant-of-license)
-      - [<b>2.1&ensp;   Right to Use and Commercially Distribute </b>](#-b-21-ensp----right-to-use-and-commercially-distribute---b-)
-      - [<b>2.2 &ensp; Restrictions </b><br></br>](#-b-22--ensp--restrictions---b--br---br-)
-      - [<b> 2.3  &ensp;New Releases / Versions  </b><br></br>](#-b--23---ensp-new-releases---versions----b--br---br-)
-      - [<b> 2.4&ensp;  Assignment and Sub-licensing </b><br></br>](#-b--24-ensp---assignment-and-sub-licensing---b--br---br-)
-    + [&ensp; <b>3&ensp;&nbsp;  Delivery</b><br></br>](#-ensp---b-3-ensp--nbsp---delivery--b--br---br-)
-    + [&ensp; <b> 4&ensp;&nbsp; Rights regarding DAC Factory</b><br></br>](#-ensp---b--4-ensp--nbsp--rights-regarding-dac-factory--b--br---br-)
-    + [&ensp; <b>5&ensp;&nbsp;  No License Fee</b><br></br>](#-ensp---b-5-ensp--nbsp---no-license-fee--b--br---br-)
-    + [&ensp; <b>6&ensp;&nbsp;  Record Keeping</b><br></br>](#-ensp---b-6-ensp--nbsp---record-keeping--b--br---br-)
-    + [&ensp;  <b>7&ensp;&nbsp; Representations and Warranties </b><br></br>](#-ensp----b-7-ensp--nbsp--representations-and-warranties---b--br---br-)
-    + [&ensp;  <b>8&ensp;&nbsp; Infringement Proceedings </b><br></br>](#-ensp----b-8-ensp--nbsp--infringement-proceedings---b--br---br-)
-    + [&ensp;  <b>9&ensp;&nbsp; Indemnity</b><br></br>](#-ensp----b-9-ensp--nbsp--indemnity--b--br---br-)
-    + [&nbsp; <b>10&ensp;&nbsp;Liability </b> <br></br>](#-nbsp---b-10-ensp--nbsp-liability---b---br---br-)
-    + [&nbsp; <b>11&ensp;&nbsp;  Term and Termination  </b><br></br>](#-nbsp---b-11-ensp--nbsp---term-and-termination----b--br---br-)
-      - [<b>11.1&ensp;&nbsp;Term  </b> <br></br>](#-b-111-ensp--nbsp-term----b---br---br-)
-      - [<b>11.2&ensp;&nbsp;Termination by Licensee </b><br></br>](#-b-112-ensp--nbsp-termination-by-licensee---b--br---br-)
-      - [<b>11.3&ensp;&nbsp;Termination by Licensor  </b><br></br>](#-b-113-ensp--nbsp-termination-by-licensor----b--br---br-)
-    + [&nbsp; <b>12&ensp;&nbsp;Effects of Termination</b><br></br>](#-nbsp---b-12-ensp--nbsp-effects-of-termination--b--br---br-)
-    + [&nbsp; <b>13&ensp;&nbsp; Miscellaneous </b><br></br>](#-nbsp---b-13-ensp--nbsp--miscellaneous---b--br---br-)
-      - [<b>13.1&ensp;&nbsp;Form of Agreement and Effective Date  </b><br></br>](#-b-131-ensp--nbsp-form-of-agreement-and-effective-date----b--br---br-)
-      - [<b>13.2&ensp;&nbsp;Notices</b><br></br>](#-b-132-ensp--nbsp-notices--b--br---br-)
-      - [<b>13.3&ensp;&nbsp;Amendments</b><br></br>](#-b-133-ensp--nbsp-amendments--b--br---br-)
-      - [<b>13.4&ensp;&nbsp;Assignment</b><br></br>](#-b-134-ensp--nbsp-assignment--b--br---br-)
-      - [<b>13.5&ensp;&nbsp;Waiver</b><br></br>](#-b-135-ensp--nbsp-waiver--b--br---br-)
-      - [<b>13.6&ensp;&nbsp;Severability</b><br></br>](#-b-136-ensp--nbsp-severability--b--br---br-)
-      - [<b>13.7&ensp;&nbsp;Governing Law</b><br></br>](#-b-137-ensp--nbsp-governing-law--b--br---br-)
-      - [<b>13.8&ensp;&nbsp;Jurisdiction / Arbitration</b><br></br>](#-b-138-ensp--nbsp-jurisdiction---arbitration--b--br---br-)
+      - [<b>2.1&ensp;   Right to Use and Commercially Distribute </b>](#21---right-to-use-and-commercially-distribute-)
+      - [<b>2.2 &ensp; Restrictions </b><br></br>](#22--restrictions-)
+      - [<b> 2.3  &ensp;New Releases / Versions  </b><br></br>](#-23--new-releases--versions--)
+      - [<b> 2.4&ensp;  Assignment and Sub-licensing </b><br></br>]#-24--assignment-and-sub-licensing-)
+    + [&ensp; <b>3&ensp;&nbsp;  Delivery</b><br></br>](#-3--delivery)
+    + [&ensp; <b> 4&ensp;&nbsp; Rights regarding DAC Factory</b><br></br>](#--4-rights-regarding-dac-factory)
+    + [&ensp; <b>5&ensp;&nbsp;  No License Fee</b><br></br>](#-5--no-license-fee)
+    + [&ensp; <b>6&ensp;&nbsp;  Record Keeping</b><br></br>](#-6--record-keeping)
+    + [&ensp;  <b>7&ensp;&nbsp; Representations and Warranties </b><br></br>](#--7-representations-and-warranties-)
+    + [&ensp;  <b>8&ensp;&nbsp; Infringement Proceedings </b><br></br>](#--8-infringement-proceedings-)
+    + [&ensp;  <b>9&ensp;&nbsp; Indemnity</b><br></br>](#--9-indemnity)
+    + [&nbsp; <b>10&ensp;&nbsp;Liability </b> <br></br>](md#-10liability---)
+    + [&nbsp; <b>11&ensp;&nbsp;  Term and Termination  </b><br></br>](#-11--term-and-termination--)
+      - [<b>11.1&ensp;&nbsp;Term  </b> <br></br>](#111term---)
+      - [<b>11.2&ensp;&nbsp;Termination by Licensee </b><br></br>](#112termination-by-licensee-)
+      - [<b>11.3&ensp;&nbsp;Termination by Licensor  </b><br></br>](#113termination-by-licensor--)
+    + [&nbsp; <b>12&ensp;&nbsp;Effects of Termination</b><br></br>](#-12effects-of-termination)
+    + [&nbsp; <b>13&ensp;&nbsp; Miscellaneous </b><br></br>](#-13-miscellaneous-)
+      - [<b>13.1&ensp;&nbsp;Form of Agreement and Effective Date  </b><br></br>](#131form-of-agreement-and-effective-date--)
+      - [<b>13.2&ensp;&nbsp;Notices</b><br></br>](#132notices)
+      - [<b>13.3&ensp;&nbsp;Amendments</b><br></br>](#133amendments)
+      - [<b>13.4&ensp;&nbsp;Assignment</b><br></br>](#134assignment)
+      - [<b>13.5&ensp;&nbsp;Waiver</b><br></br>](#135waiver)
+      - [<b>13.6&ensp;&nbsp;Severability</b><br></br>](#136severability)
+      - [<b>13.7&ensp;&nbsp;Governing Law</b><br></br>](#137governing-law)
+      - [<b>13.8&ensp;&nbsp;Jurisdiction / Arbitration</b><br></br>](#138jurisdiction--arbitration)
+    * [Signatures](#signatures)
+    * [Annex](#annex)
+	
 
 
 
@@ -77,7 +80,7 @@
 <b>C)</b> &ensp;   Licensee wishes to use and distribute DAC Factory for and in connection with the Activity, and Licensor is willing to grant the Licensee a license to use and distribute DAC Factory for this purpose based on, and in accordance with, the terms set out in this Agreement. 
 <br></br>
 
-### &ensp;&nbsp;  <b>1 Definitions </b>
+### &ensp;&nbsp;  <b>1&ensp;&nbsp;  Definitions </b>
  &ensp;    &ensp;  &nbsp;Unless defined directly in this Agreement, capitalized terms used in this Agreement shall have the meaning set forth  & hereafter:
 <table>
   <tbody>
@@ -252,7 +255,7 @@
 </tbody>
 </table>
 <br></br>
-#### <b>13.2&ensp;&nbsp;Notices</b><br></br>
+####  <b>13.2&ensp;&nbsp;Notices</b><br></br>
  &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; All notices and other communications under this Agreement shall be in writing and shall be considered duly given when received, if delivered as follows: 
 <table>
   <tbody>
@@ -287,7 +290,7 @@
   &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; Each of the Parties hereby irrevocably submits to the jurisdiction of the competent courts in Zug to settle any disputes which may arise out of or in connection with this Agreement. <br></br>
   
 
- &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; <b>Signatures</b>
+## &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; <b>Signatures</b>
  
   &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;  ______________, this _____________
 
@@ -302,7 +305,7 @@
 &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;  [Agreement executed by the custodians in accordance with Section 13.1] 
 <br></br>
 
- &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; <b>Annex</b>
+## &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; <b>Annex</b>
 
 &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;Description of DAC Factory The DAC Factory is software for 
 
