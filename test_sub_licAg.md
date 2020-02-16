@@ -13,23 +13,13 @@
     </tr>
     <tr>
   <td valign="top"> <b>2020 </b></td>
-     <td valign="top"> <b> Micheal Yeates</b> <br> </br> Address : 903, Number One Bristol, B21 2NJ hereinafter:  <b> "Licensor" </b></td>
-      <td align="left"><b>EOS DAC </b> <br></br>a decentralized autonomous community acting through <br></br>and represented by its custodian board, composed as follows at the date hereof: 
-      <ul>
-          <li>Brock Pierce</li>
-	     <li>Michael Yeates</li>
-		 <li>Luke Stokes</li>
-          <li>Rob Allen</li>
-          <li>SungHwan Won</li>
-	     <li>Saro Mckenna</li>
-		 <li>Dallas Johnson</li>
-          <li>Cris Pak</li>
-          <li>Myra Wang</li>
-	     <li>Soyoung Kim</li>
-		 <li>Justin Buck</li>
-          <li>CREAMer</li>
-           </td>
-             <td valign="top"> software to automate and facilitate the creation and organization of decentralized autonomous communities.</td>
+     <td valign="top"> <b>eosDAC</b> <br> </br> a decentralized autonomous community ("DAC") acting through
+and represented by its custodian board, composed as follows at the date hereof: <br></br> hereinafter:  <b> "Licensor" </b></td>
+      <td align="left"><b>Dacoco GmbH</b> <br></br> c/o AbaFin Treuhand AG <br></br>
+Baarerstrasse 82<br></br>
+6302 Zug
+     </td>
+     <td valign="top"> software to automate and facilitate the creation and organization of decentralized autonomous communities.</td>
   </tbody>
 </table>
 
