@@ -24,7 +24,7 @@
     + [&nbsp; <b>12&ensp;&nbsp;Effects of Termination</b><br></br>](#-12effects-of-termination)
     + [&nbsp; <b>13&ensp;&nbsp; Miscellaneous </b><br></br>](#-13-miscellaneous-)
       - [<b>13.1&ensp;&nbsp;Form of Agreement and Effective Date  </b><br></br>](#131form-of-agreement-and-effective-date--)
-      - [<b>13.2&ensp;&nbsp;Notices</b><br></br>](#132notices)
+      - [<b>13.2&ensp;&nbsp;Notices</b><br></br>](#132notices-)
       - [<b>13.3&ensp;&nbsp;Amendments</b><br></br>](#133amendments)
       - [<b>13.4&ensp;&nbsp;Assignment</b><br></br>](#134assignment)
       - [<b>13.5&ensp;&nbsp;Waiver</b><br></br>](#135waiver)
