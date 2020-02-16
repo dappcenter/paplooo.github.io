@@ -155,7 +155,7 @@ this is code for table of content
 
 
 
-### &ensp; <b>2&ensp;&nbsp;    Grant of License</b>;
+### &ensp; <b>2&ensp;&nbsp;    Grant of License</b>
 <br></br>
 
 #### <b>2.1&ensp;   Right to Use and Commercially Distribute </b>
