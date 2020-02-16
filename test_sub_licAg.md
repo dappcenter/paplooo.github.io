@@ -15,7 +15,7 @@
   <td valign="top"> <b>2020 </b></td>
      <td valign="top"> <b>eosDAC</b> <br> </br> a decentralized autonomous community ("DAC") acting through
 and represented by its custodian board, composed as follows at the date hereof: <br></br> hereinafter:  <b> "Licensor" </b></td>
-      <td align="left"><b>Dacoco GmbH</b> <br></br> c/o AbaFin Treuhand AG, Baarerstrasse 82,
+      <td valign="top"><b>Dacoco GmbH</b> <br></br> c/o AbaFin Treuhand AG, Baarerstrasse 82,
 6302 Zug
      </td>
      <td valign="top"> software to automate and facilitate the creation and organization of decentralized autonomous communities.</td>
