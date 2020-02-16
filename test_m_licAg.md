@@ -76,6 +76,7 @@ this is code for table of content
 <b> B) </b>  &ensp;    Licensee is a blockchain enabled decentralized autonomous community (a "DAC") engaged in promoting the concept of DACs in general and the creation of further DACs across the globe (the "Activity"). 
 
 <b>C)</b> &ensp;   Licensee wishes to use and distribute DAC Factory for and in connection with the Activity, and Licensor is willing to grant the Licensee a license to use and distribute DAC Factory for this purpose based on, and in accordance with, the terms set out in this Agreement. 
+<br></br>
 
 ### <b>1  &ensp;&nbsp;   Definitions </b>
  &ensp;    &ensp;  &nbsp;Unless defined directly in this Agreement, capitalized terms used in this Agreement shall have the meaning set forth  & hereafter:
@@ -152,14 +153,14 @@ this is code for table of content
         </tbody>
 </table>
 
-      
+ <br></br>     
       
 
 
 
 
 ### &ensp; <b>2&ensp;&nbsp;    Grant of License</b>;
-
+<br></br>
 
 #### <b>2.1&ensp;   Right to Use and Commercially Distribute </b>
 
@@ -172,7 +173,7 @@ this is code for table of content
     <li>&ensp;  &ensp; storing the program and using its Documentation with any part of the program in connection with the practical &ensp;  &ensp;&nbsp;&nbsp;&nbsp; &ensp;  &ensp;&nbspexploitation of DAC Factory</li>
 </ol>
 
- &ensp;  &ensp;"Commercially distribute" in this Agreement shall have the meaning of commercializing DAC Factory towards third parties by granting, against consideration, a sub-license to up to one third party (the "Distributor"). Such sub-license shall allow the Distributor to grant an unlimited number of limited sub-licenses to end users, to allow such end users to use, always subject to the limitations and restrictions in Section 2.2 below, DAC Factory or certain functions thereof against consideration. The Distributor shall not have the right to grant sub-licenses for any further commercial distribution of the Licensed Product. For the avoidance of doubt, Licensee shall have no obligation to grant a sub-license to a Distributor and shall be free in electing, revoking and/or replacing any Distributor from time to time, in observance of the relevant terms of any applicable sub-license agreement. 
+ &ensp;  &ensp;"Commercially distribute" in this Agreement shall have the meaning of commercializing DAC Factory towards third parties by granting, against consideration, a sub-license to up to one third party (the "Distributor"). Such sub-license shall allow the Distributor to grant an unlimited number of limited sub-licenses to end users, to allow such end users to use, always subject to the limitations and restrictions in Section 2.2 below, DAC Factory or certain functions thereof against consideration. The Distributor shall not have the right to grant sub-licenses for any further commercial distribution of the Licensed Product. For the avoidance of doubt, Licensee shall have no obligation to grant a sub-license to a Distributor and shall be free in electing, revoking and/or replacing any Distributor from time to time, in observance of the relevant terms of any applicable sub-license agreement. <br></br>
  
 #### <b>2.2 &ensp; Restrictions </b><br></br>
  &ensp; &ensp; &ensp; &nbsp;The right to use the Licensed Product is subject to the following restrictions:
