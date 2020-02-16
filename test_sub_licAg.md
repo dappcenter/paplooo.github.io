@@ -256,8 +256,8 @@
 
  &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; <b>Licensee, Dacoco GmbH, Zug</b><br></br>
   &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;  _______________________________  &ensp;&ensp;&ensp; _______________________________<br></br>
-   &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; Name: Michael Yeates &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Name: Saro McKenna<br></br>
-    &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; Title: Author &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Title: Managing Officer  <br></br>
+   &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; Name: Michael Yeates &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Name: Saro McKenna<br></br>
+    &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; Title: Author &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;&ensp;&ensp; Title: Managing Officer  <br></br>
 
 
  &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; <b>Licensor, eosDAC </b><br></br>
