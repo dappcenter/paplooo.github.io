@@ -3,12 +3,12 @@
 
 - [Sub-License Agreement](#sub-license-agreement)
   * [Recitals](#recitals)
-    + [<b>1 Definitions </b>](#--1-definitions-)
+    + [<b>1 Definitions </b>](#--1--definitions-)
     + [&ensp; <b>2&ensp;&nbsp;    Grant of License</b>](#-2----grant-of-license)
       - [<b>2.1&ensp;   Right to Use and Commercially Distribute </b>](#21---right-to-use-and-commercially-distribute-)
       - [<b>2.2 &ensp; Restrictions </b><br></br>](#22--restrictions-)
       - [<b> 2.3  &ensp;New Releases / Versions  </b><br></br>](#-23--new-releases--versions--)
-      - [<b> 2.4&ensp;  Assignment and Sub-licensing </b><br></br>]#-24--assignment-and-sub-licensing-)
+      - [<b> 2.4&ensp;  Assignment and Sub-licensing </b><br></br>](#-24--assignment-and-sub-licensing-)
     + [&ensp; <b>3&ensp;&nbsp;  Delivery</b><br></br>](#-3--delivery)
     + [&ensp; <b> 4&ensp;&nbsp; Rights regarding DAC Factory</b><br></br>](#--4-rights-regarding-dac-factory)
     + [&ensp; <b>5&ensp;&nbsp;  No License Fee</b><br></br>](#-5--no-license-fee)
@@ -255,7 +255,7 @@
 </tbody>
 </table>
 <br></br>
-####  <b>13.2&ensp;&nbsp;Notices</b><br></br>
+#### <b>13.2&ensp;&nbsp;Notices</b><br></br>
  &ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp; All notices and other communications under this Agreement shall be in writing and shall be considered duly given when received, if delivered as follows: 
 <table>
   <tbody>
