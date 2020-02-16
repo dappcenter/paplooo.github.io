@@ -3,8 +3,8 @@
 
 - [Sub-License Agreement](#sub-license-agreement)
   * [Recitals](#recitals)
-    + [<b>1 Definitions </b>](#-b-1-definitions---b-)
-    + [&ensp; <b>2&ensp;&nbsp;    Grant of License</b>](#-ensp---b-2-ensp--nbsp-----grant-of-license--b-)
+    + [<b>1 Definitions </b>](#--1-definitions-)
+    + [&ensp; <b>2&ensp;&nbsp;    Grant of License</b>](#-2----grant-of-license)
       - [<b>2.1&ensp;   Right to Use and Commercially Distribute </b>](#-b-21-ensp----right-to-use-and-commercially-distribute---b-)
       - [<b>2.2 &ensp; Restrictions </b><br></br>](#-b-22--ensp--restrictions---b--br---br-)
       - [<b> 2.3  &ensp;New Releases / Versions  </b><br></br>](#-b--23---ensp-new-releases---versions----b--br---br-)
