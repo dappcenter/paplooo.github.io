@@ -1,4 +1,4 @@
-<font size="2">Software License Agreement dated [●] 2020</font>
+<font size="2">Software License Agreement dated 28 February 2020</font>
 
 
 - [<b>License Agreement</b><br></br>](license-agreement)
@@ -49,9 +49,42 @@
       <th align="left">Concerning</th>
     </tr>
     <tr>
-  <td valign="top"> <b>2020 </b></td>
+  <td valign="top"> <b>28 February 2020 </b></td>
      <td valign="top"> <b>eosDAC</b> <br> </br> a decentralized autonomous community ("DAC") acting through
-and represented by its custodian board, composed as follows at the date hereof: <br></br> hereinafter:  <b> "Licensor" </b></td>
+and represented by its custodian board, composed as follows at the date hereof: 
+
+<table>
+  <tbody>
+    <tr>
+     <th align="left">Date</th>
+      <th align="left">Between</th>
+      <th align="left">And</th>
+      <th align="left">Concerning</th>
+    </tr>
+    <tr>
+  <td valign="top"> <b>28 February 2020 </b></td>
+     <td valign="top"> <b> Micheal Yeates</b> <br> </br> Address : 903, Number One Bristol, B21 2NJ hereinafter:  <b> "Licensor" </b></td>
+      <td align="left"><b>EOS DAC </b> <br></br>a decentralized autonomous community acting through <br></br>and represented by its custodian board, composed as follows at the date hereof: 
+      <ul>
+          <li>Brock Pierce</li>
+	     <li>Michael Yeates</li>
+		 <li>Luke Stokes</li>
+          <li>Rob Allen</li>
+          <li>SungHwan Won</li>
+	     <li>Saro Mckenna</li>
+		 <li>Dallas Johnson</li>
+          <li>Cris Pak</li>
+          <li>Myra Wang</li>
+	     <li>Soyoung Kim</li>
+		 <li>Justin Buck</li>
+          <li>CREAMer</li>
+           </td>
+             <td valign="top"> software to automate and facilitate the creation and organization of decentralized autonomous communities.</td>
+  </tbody>
+</table>
+<br></br>
+
+<br></br> hereinafter:  <b> "Licensor" </b></td>
       <td valign="top"><b>Dacoco GmbH</b> <br></br> c/o AbaFin Treuhand AG, Baarerstrasse-82,
 6302 Zug <br></br>
 hereinafter: <b>"Licensee"</b>
@@ -258,8 +291,8 @@ hereinafter: <b>"Licensee"</b>
       <th align="left">If to Licensee</th>
       </tr>
       <tr>
-	  <td valign="top">[●]</td>
-	  <td valign="top">Through publication of the relevant notice on a publically accessible server and publishing a link to such notice on [●]</td>
+	  <td valign="top">Through a transaction sent on the EOS blockchain to eosdacthedac marked 'Attn Custodian board' with the message as a hashed document in the memo field</td>
+	  <td valign="top">Dacoco GmbH</td>
 	 </tr>
 </tbody>
 </table>

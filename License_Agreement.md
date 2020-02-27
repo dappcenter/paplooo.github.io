@@ -1,4 +1,4 @@
-<font size="2">Software License Agreement dated [●] 2020</font>
+<font size="2">Software License Agreement dated 28 February 2020</font>
 
 
 - [<b>Sub-License Agreement</b><br></br>](#sub-license-agreement)
@@ -265,8 +265,8 @@
       <th align="left">If to Licensee</th>
       </tr>
       <tr>
-	  <td valign="top">[●]</td>
-	  <td valign="top">Through publication of the relevant notice on a publically accessible server and publishing a link to such notice on [●]</td>
+	  <td valign="top">michaeljyeates@gmail.com</td>
+	  <td valign="top">Through a transaction sent on the EOS blockchain to eosdacthedac marked 'Attn Custodian board' with the message as a hashed document in the memo field</td>
 	 </tr>
 </tbody>
 </table>
