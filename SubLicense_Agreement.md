@@ -66,6 +66,8 @@ and represented by its custodian board, composed as follows at the date hereof:
 		 <li>Justin Buck</li>
           <li>CREAMer</li>
 		</ul>
+	  hereinafter: <b>"Licensor"</b>
+
   </td>
 
    <td valign="top"><b>Dacoco GmbH</b> <br></br> c/o AbaFin Treuhand AG, Baarerstrasse-82,
