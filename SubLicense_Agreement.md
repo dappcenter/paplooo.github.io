@@ -69,8 +69,7 @@ and represented by its custodian board, composed as follows at the date hereof:
   </td>
 
    <td valign="top"><b>Dacoco GmbH</b> <br></br> c/o AbaFin Treuhand AG, Baarerstrasse-82,
-6302 Zug <br></br>
-hereinafter: <b>"Licensee"</b>
+6302 Zug hereinafter: <b>"Licensee"</b>
     </td>
     <td valign="top"> software to automate and facilitate the creation and organization of decentralized autonomous communities.</td>
   </tbody>
