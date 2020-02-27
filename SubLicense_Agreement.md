@@ -271,7 +271,7 @@ and represented by its custodian board, composed as follows at the date hereof:
       <th align="left">If to Licensee</th>
       </tr>
       <tr>
-	  <td valign="top">Through a transaction sent on the EOS blockchain to `eosdacthedac` marked 'Attn Custodian board' with the message as a hashed document in the memo field</td>
+	      <td valign="top">Through a transaction sent on the EOS blockchain to <b>eosdacthedac</b> marked 'Attn Custodian board' with the message as a hashed document in the memo field</td>
 	  <td valign="top"><b>Dacoco GmbH</b></td>
 	 </tr>
 </tbody>
