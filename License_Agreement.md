@@ -66,7 +66,7 @@
 	     <li>Soyoung Kim</li>
 		 <li>Justin Buck</li>
           <li>CREAMer</li>
-		  hereinafter: "Licensee"
+		  hereinafter: <b>"Licensee"</b>
            </td>
              <td valign="top"> software to automate and facilitate the creation and organization of decentralized autonomous communities.</td>
   </tbody>
