@@ -267,7 +267,7 @@
       </tr>
       <tr>
 	  <td valign="top"><b>michaeljyeates@gmail.com</b></td>
-	  <td valign="top">Through a transaction sent on the EOS blockchain to `eosdacthedac` marked 'Attn Custodian board' with the message as a hashed document in the memo field</td>
+	  <td valign="top">Through a transaction sent on the EOS blockchain to ```eosdacthedac``` marked 'Attn Custodian board' with the message as a hashed document in the memo field</td>
 	 </tr>
 </tbody>
 </table>
