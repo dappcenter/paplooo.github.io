@@ -50,7 +50,7 @@
       <th align="left">Concerning</th>
     </tr>
     <tr>
-  <td valign="top"> <b>2020 </b></td>
+  <td valign="top"> <b>28 February 2020 </b></td>
      <td valign="top"> <b> Micheal Yeates</b> <br> </br> Address : 903, Number One Bristol, B21 2NJ hereinafter:  <b> "Licensor" </b></td>
       <td align="left"><b>EOS DAC </b> <br></br>a decentralized autonomous community acting through <br></br>and represented by its custodian board, composed as follows at the date hereof: 
       <ul>
